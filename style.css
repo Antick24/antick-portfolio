@@ -122,3 +122,9 @@ span{
     padding-left: 300px;
     padding-right: 100px;
 }
+
+/*experience*/
+
+.experience{
+    display: flex;
+}
