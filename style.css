@@ -11,10 +11,6 @@ h1{
 /* HOME */
 .home{
     display: flex 
-    
-    
-  
-    
 }
 
 span{
@@ -24,12 +20,7 @@ span{
 .half-width{
     width: 50%;
   margin-left: 100px
- 
- 
-  
- 
-  
-}
+ }
 .half-width img{
     width 70%;
     height: 70%;
@@ -127,4 +118,26 @@ span{
 
 .experience{
     display: flex;
+}
+
+/*services*/
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 20px;
+}
+.footer-style{
+    text-align: center;
 }
